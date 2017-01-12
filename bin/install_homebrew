@@ -30,9 +30,6 @@ brew install bash
 # Bash Completion
 brew install bash-completion
 
-# chruby
-brew install chruby
-
 # cloc
 brew install cloc
 
@@ -50,9 +47,6 @@ brew install direnv
 
 # ExifTool
 brew install exiftool
-
-# Elasticsearch
-brew install elasticsearch
 
 # Elm
 brew install elm
@@ -138,9 +132,6 @@ brew install namebench
 # Network Grep
 brew install ngrep
 
-# Nginx
-brew install nginx
-
 # Node
 brew install node
 
@@ -149,9 +140,6 @@ brew install parallel
 
 # Peco
 brew install peco
-
-# pgcli
-brew install pgcli
 
 # Phantom.js
 brew install phantomjs
@@ -162,17 +150,8 @@ brew install pigz
 # Pipe Viewer
 brew install pv
 
-# PostgreSQL
-brew install postgresql
-
 # QuickLook - Plain Text
 brew cask install qlstephen
-
-# Redis
-brew install redis
-
-# Ruby Install
-brew install ruby-install
 
 # Rust
 brew install rust
