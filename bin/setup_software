@@ -17,5 +17,4 @@ chsh -s /usr/local/bin/bash
 
 # Dotfiles
 rm -f $HOME/.bash_profile
-install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
-source $HOME/.bashrc
+mr --trust-all bootstrap https://raw.githubusercontent.com/mattbowen/dotmyrepos/master/home/.mrconfig
