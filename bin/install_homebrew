@@ -45,6 +45,11 @@ brew install diff-so-fancy
 # direnv
 brew install direnv
 
+# Emacs Plus
+brew tap d12frosted/emacs-plus
+brew install emacs-plus
+brew linkapps emacs-plus
+
 # ExifTool
 brew install exiftool
 
@@ -193,3 +198,6 @@ brew install yarn
 
 # Z
 brew install z
+
+# ZSH
+brew install zsh zsh-completions
