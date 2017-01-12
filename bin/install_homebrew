@@ -131,6 +131,9 @@ brew install hg
 # Mosh
 brew install mobile-shell
 
+# MyRepos
+brew install mr
+
 # Namebench
 brew install namebench
 
