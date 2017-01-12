@@ -11,17 +11,23 @@ if ! command -v mas > /dev/null; then
   exit 1
 fi
 
-# 1Password
-mas install 443987910
+# AlterNote
+mas install 974971992
 
-# Cocoa JSON Editor
-mas install 442160773
+# Byword
+mas install 420212497
+
+# Chroma for Hue
+mas install 756399907
 
 # DaisyDisk
 mas install 411643860
 
 # Day One
 mas install 1055511498
+
+# Evernote
+mas install 406056744
 
 # Fantastical
 mas install 975937182
@@ -32,8 +38,14 @@ mas install 409183694
 # Kindle
 mas install 405399194
 
+# LastPass
+mas install 926036361
+
 # Moom
 mas install 419330170
+
+# Navicat
+mas install 466416967
 
 # Numbers
 mas install 409203825
@@ -41,8 +53,23 @@ mas install 409203825
 # Pages
 mas install 409201541
 
+# Paprika
+mas install 451907568
+
+# Quiver
+mas install 866773894
+
 # Slack
 mas install 803453959
 
 # Tweetbot
 mas install 557168941
+
+# TypeFu
+mas install 509818877
+
+# Vitamin R2
+mas install 645468574
+
+# YubiKey Personalization Tool
+mas install 638161122
