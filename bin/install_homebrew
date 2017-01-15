@@ -167,6 +167,9 @@ brew install rust
 # ShellCheck
 brew install shellcheck
 
+# Soucecode Pro Font
+brew tap caskroom/fonts
+brew cask install font-source-code-pro-for-powerline
 # Tag
 brew install tag
 
