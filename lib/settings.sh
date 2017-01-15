@@ -94,6 +94,10 @@ export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
+export OMNIFOCUS_APP_NAME="OmniFocus.app"
+export OMNIFOCUS_VOLUME_NAME="OmniFocus"
+export OMNIFOCUS_APP_URL="http://www.omnigroup.com/ftp1/pub/software/MacOSX/10.11/OmniFocus-2.8.1.dmg"
+
 export OPEN_OFFICE_APP_NAME=OpenOffice.app
 export OPEN_OFFICE_VOLUME_NAME="OpenOffice"
 export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
