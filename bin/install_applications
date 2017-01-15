@@ -40,8 +40,8 @@ install_zip_pkg "$KSDIFF_APP_URL" "$KSDIFF_APP_NAME"
 # Marp
 install_dmg_app "$MARP_APP_URL" "$MARP_VOLUME_NAME" "$MARP_APP_NAME"
 
-# OmniGraffle
-install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
+# OmniFocus
+install_dmg_app "$OMNIFOCUS_APP_URL" "$OMNIFOCUS_VOLUME_NAME" "$OMNIFOCUS_APP_NAME"
 
 # Path Finder
 install_zip_app "$PATH_FINDER_APP_URL" "$PATH_FINDER_APP_NAME"
